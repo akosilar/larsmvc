@@ -1,6 +1,15 @@
 <?php
-    class Pages {
+    class Pages extends Controller {
         public function __construct() {
-            echo 'pages loaded';
+
         }
+
+        public function index() {
+
+        }
+
+        public function about() {
+
     }
+
+}
