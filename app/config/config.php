@@ -1,13 +1,13 @@
 <?php
     // db params
     define('DB_HOST', 'localhost');
-    define('DB_USER', 'root');
-    define('DB_PASS', '123456');
-    const DB_NAME = 'tmvc';
+    define('DB_USER', '_YOUR_USER_');
+    define('DB_PASS', '_YOUR_PASS');
+    const DB_NAME = '_YOUR_DBNAME_';
 
     // app root
     define('APPROOT', dirname(dirname(__FILE__)));
     // url root
-    define('URLROOT', 'http://localhost/larsmvc');
+    define('URLROOT', '_YOUR_URL_');
     // site name
-    define('SITENAME', 'LarsMVC');
+    define('SITENAME', '_YOUR_SITENAME_');
